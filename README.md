@@ -6,9 +6,7 @@ This repository contains AWS and multi-cloud architecture tasks as part of the C
 ## Repository Structure
 📂 multi-cloud-project/ │── 📂 Task-1-S3-Bucket/ # AWS S3 storage setup │── 📂 Task-2-Monitoring/ # AWS CloudWatch monitoring │── 📂 Task-3-MultiCloud/ # AWS + GCP architecture │── 📂 Task-4-Security/ # IAM, encryption, MFA │── 📜 README.md # Project documentation
 
-markdown
-Copy
-Edit
+
 
 ## Tasks
 ### Task 1: AWS S3 Bucket Setup
