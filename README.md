@@ -33,7 +33,7 @@ This repository contains AWS and multi-cloud architecture tasks as part of the C
 
 ## How to Use
 1. Clone the repository:
-git clone https://github.com/your-username/multi-cloud-project.git
+git clone https://github.com/kalpesh1927/multi-cloud-project.git
 
 markdown
 Copy
